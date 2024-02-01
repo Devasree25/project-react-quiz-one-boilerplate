@@ -1,0 +1,166 @@
+body{
+  background-color: rgb(44, 11, 107);
+}
+
+#Button{
+  border-radius: 5vw;
+  width: 15vw;
+  height: 7vh;
+  background-color: rgb(5, 173, 5);
+  color: white;
+}
+
+.frontpage{
+  display: flex;
+  justify-content: center;
+  margin-top: 30vh;
+  text-align: center;
+}
+
+#title2{
+  color: white;
+}
+
+
+
+.div1{
+  background-color: white;
+}
+
+.div1{
+  background-color: white;
+  width: 90vw;
+  height:70vh;
+  border: 1px solid black;
+  margin-top:5vw;
+  margin-left: 70px;
+
+}
+
+.options{
+    background-color: rgb(0, 115, 255);
+    padding:5px ;
+    border-radius: 50px;
+    width:40vw;
+    text-align: center;
+    color: white;
+}
+
+.option1{
+  display: flex;
+  justify-content: space-between;
+  margin-top:3vw;
+
+}
+
+#question{
+  margin-top:2vw;
+  text-align: center;
+}
+
+#optionbox{
+  margin-top: 5vw;
+}
+
+#btn1{
+  background-color: lightblue;
+  border: none;
+  padding:3px;
+  width:8vw;
+  margin-right:2vw ;
+  font-weight: bold;
+  
+}
+
+#btn2{
+  background-color: darkgreen;
+  border: none;
+  padding:3px;
+  width:8vw;
+  margin-right:2vw;
+  font-weight: bold;
+}
+
+#btn3{
+  background-color: red;
+  border: none;
+  padding:3px;
+  width:8vw;
+  margin-right: 2vw;
+  font-weight: bold;
+}
+
+#buttons{
+  margin-top: 2vw;
+  display: flex;
+  justify-content: center; 
+}
+
+#result{
+  color: green;
+  text-align: center;
+}
+.div2{
+  border: 1px solid black;
+  width: 90vw;
+  height: 100vh;
+  background-color: white;
+  margin-top: 4vw;
+  margin-left: 70px;
+}
+
+#show{
+  font-weight: bolder;
+  margin-top: 5vw;
+  text-align: center;
+
+}
+
+#score{
+  color: blue;
+  font-size: larger;
+  text-align: center;
+
+}
+
+.scorechart{
+  font-weight: bolder;
+  margin-top: 5vw;
+  margin-right:70vw;
+  display:Flex ;
+  flex-direction: column;
+}
+
+.scores{
+  display: flex;
+  flex-direction:column;
+  align-items: flex-end;
+  position: relative;
+  bottom:20vw;
+  margin-right: 5vw;
+  font-weight: bold;
+}
+
+.sentences{
+  margin-top:3vw;
+  font-weight: bold;
+  margin-left: 2vw;
+}
+
+#playButton2{
+  border: 2px solid rgb(156, 156, 243);
+  color:rgb(156, 156, 243) ;
+
+  margin-right: 2vw;
+}
+
+.btns{
+  border: 2px solid green ;
+  color: green;
+  margin-top: 15vw;
+  margin-right: 30vw;
+}
+
+#title{
+  text-align: center;
+}
